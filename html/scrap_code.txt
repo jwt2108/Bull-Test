@@ -1,0 +1,180 @@
+
+                <header class="header">
+        <!-- <div id="navbar" class="navbar top">
+            Logo -->
+            
+            <!-- <img class="image-logo" src="pics/jbart-logo.png" alt="J Bar T"> -->
+
+            <!-- Navbar  -->
+            <!-- <nav>
+                
+                <ul class="text-primary link-font">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#semen">Semen</a></li>
+                    <li><a href="#sale-animals">Sale Animals</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav> -->
+        <!-- </div> -->
+
+        <!-- Content  -->
+
+        <div class="content">
+            <h1>Highlander Heaven</h1>
+            <p>Breeding World Class Highland Cattle on the Ozarks Plateau</p>
+       
+
+        <!-- Button --> 
+
+            <div> 
+                <a class="btn" href="#about"> >
+             Read More</a>             
+            </div>  
+        </div>
+    </header>
+
+    <main>
+        <section id="about" class="about section-color">
+            <div class="welcome-parent">
+                <div class="welcome-pic">
+                    <img src="/pics/welcome - 1.png" alt="">
+                </div>
+            </div>
+            
+            <div class="about-items">
+                
+                <div >
+                    <h3>History</h3>
+                    <p>We have been raising registered Highland cattle since 2003. We started with a small group of registered Highland animals from local breeders. We are a family farm, breeding Highland cattle for beef and show. We have recently migrated from Colorado to Missouri. </p>
+                </div>
+                <div >
+                    <h3>Beef</h3>
+                    <p>We market farm grown beef, raised and finished naturally. Most of our beef is grass finished but occasionally we will finish on grain.
+                    We sell our beef by the piece, by the type (e.g. ground, stew, etc) and in bulk by 1/4, 1/2, or the whole.</p>
+                </div>
+                <div >
+                    <h3>Showing Cattle</h3>
+                    <p>We routinely participate in the show ring, competing at the local, regional and national levels. We enjoy meeting with other breeders with similar interests and objectives. The shows give us a chance to evaluate our animals and breeding strategies through competition and comparison. The shows also give us an opportunity to market our animal and beef.</p>
+                </div>
+                
+            </div>
+            <div class="strategy">
+                <div >
+                    <h3>Breeding Philosophies</h3>
+                        <p>All of our Highland fold is registered with the American Highland Cattle Association. Our breeding program is a methodical strategy attempting to improve flaws we observe in our cattle through breeding and culling.  We tend to keep a bull for significant periods of time when are seeing improvements in progeny from that sire.
+                        </p>   
+                        <p>Early on, we went the AI route and employed the Thorbardin bloodlines in our initial herd development program.  We used Thorbardin's Koch and Jed. These genetics tended to produce highly efficient and stucturally correct animals.  J Bar T's Gareth and J Bar T's Jared are sires presevered from this era. Both of whom were shown and competive at all levels. 
+                        </p>
+                        <p>HSC Steel Reserve followed and we were able to infuse fast growing genetics into the fold.  He was an early maturing and early growth bull.  While he did well in the show ring he tended to be more of a beef producing sire.  Although, many of his progeny still routlinely appear in show rings across the country.</p> 
+
+                        <p>We obtained Caledonia's Calling Heritage a few years back.  Not ever used as a show bull, but his progeny have refined some of the more 'rugged' characteristics we saw in some of our fold.  'Buster' is  sound from the hooves up with a very balanced and proportional presentation.  He has given us many calves that when oberved just appear to be neat all over.  He remains our herd bull today and many of his heifers are being retained as replacement heifers.
+
+                        </p>   
+                        <div class="about-img">
+                            <div>
+                                <img src="pics/buster_3 - 1a.png" alt="Caledonia's Calling Heritage"> 
+                                <caption>Caledonia's Calling Heritage</caption>
+                            </div> 
+                        </div>   
+                    </div> 
+            </div>
+        </section>
+
+        <!-- Semen Information -->
+        
+        <section id="semen" class="section-color">
+            <div class="bulls">
+                <div class="semen-content-1">
+                    <div>
+                        <h2>J Bar T Highland Bull Semen</h2>
+                        <p class="paypal_text"> We are excited to announce that we have semen for sale from Black Watch Finn!<br>
+                        Go to our Semen Page for more info
+                        </p>
+                    </div>
+                </div>     
+
+                 <div class="img-parent">  
+
+                    <div class="semen-img">
+                        <img src="pics/bulls/BlackWatchFinn.jpeg" alt="Black Watch Finn">
+                    </div>
+                </div> 
+
+                <a href="highlandbullsemen.html">
+                    <div class="bull-link2">
+                        <h2>Semen Catalog & Purchase<h2>
+                    </div>
+                </a>
+            </div>
+        </section>
+
+
+
+        <!-- Animal Information -->
+
+        <section id="sale-animals" class="sale-animals">
+            <div class="sa-content">
+                <h3>Cattle for Sale</h3>
+                <p>We won't always have cattle for sale but when we do they will be posted on the website.  Feel free to contact us if you don't see anything but want to check.  We also like to support Highland cattle sale/auctions to promote our cattle and the breed so you may see our animals there.
+
+                </p> <p>We are members of both the American and the Heartland Cattle Associations. We will have cattle for sale in the Heartland April auction this year.  All our purebred Highland cattle are registered with the American Highland Cattle Association.  
+                </p>
+
+                <p>We have a small cross breeding program that crosses our Highland bulls over British White cows.  We have bred some nice cross heifers and faster growing steers out of this program.  The heifers tend to compelling.</p>
+            </div>
+            <a href="sale_animals.html">
+                <div>
+                    <div class="sale-animal-btn"> 
+                     > Sale Animals Catalog
+                    </div>
+                </div>
+            </a>
+        </section>
+        
+    </main>
+    <footer>
+        <section id="contact" class="contact">
+            <ul class="contact-list">
+                <li>Email: jbt@highlanderheaven.com</li>
+                <li>Phone: 720.505.0626</li>
+                <li>Address: 1361 Dent County Rd. 2200 Rolla MO 65401<li>
+            </ul>
+        </section>          
+    </footer>
+    <script
+        src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        crossorigin="anonymous">
+    </script>
+    <script src="js/lightbox.min.js">
+
+    </script>
+    <script>
+        const navbar = document.getElementById('navbar');
+        let scrolled = false;
+  
+        window.onscroll = function () {
+          if (window.pageYOffset > 100) {
+            navbar.classList.remove('top');
+            if (!scrolled) {
+              navbar.style.transform = 'translateY(-170px)';
+            }
+            setTimeout(function () {
+              navbar.style.transform = 'translateY(0)';
+              scrolled = true;
+            }, 200);
+          } else {
+            navbar.classList.add('top');
+            scrolled = false;
+          }
+        };
+    </script>
+    
+    
+    
+    
+<figure>
+    <img src='image.jpg' alt='missing' />
+    <figcaption>Caption goes here</figcaption>
+</figure>
